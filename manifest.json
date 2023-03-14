@@ -1,0 +1,13 @@
+{
+  "name": "Commented TODO",
+  "id": "1217577761138099920",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma"
+  ],
+  "containsWidget": true,
+  "widgetApi": "1.0.0"
+}
