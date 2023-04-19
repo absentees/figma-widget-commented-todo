@@ -5,6 +5,7 @@
   "main": "dist/code.js",
   "capabilities": [],
   "enableProposedApi": false,
+  "enablePrivatePluginApi": true,
   "editorType": [
     "figma"
   ],

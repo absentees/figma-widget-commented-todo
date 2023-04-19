@@ -8,5 +8,5 @@ It would be handy to be able to see just the TODOs in a visual widget, interact 
 
 - Leave a comment for yourself with the text TODO: in it
 - Repeat
-- Open widget and give it permission to access your figma file (this is need since widget API and plugin API can't interact with comments, but the REST API can.....)
-- Widget will pull in all comment with TODO: and display them
+- Open widget and add your figma personal access token (giving the widget access to the comments)
+- Check off those TODOs
